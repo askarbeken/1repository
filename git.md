@@ -9,3 +9,5 @@ new line
 git diff применяем второй раз
 
 branch2
+
+12345
